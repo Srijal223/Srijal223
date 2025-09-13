@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Srijal223
-- 👀 I’m interested in college 1st year
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in college 2nd year.
+- 🌱 I’m currently learning Web Development. 
+- 💞️ I’m looking to collaborate on linkedin.
+- 📫 How to reach me - This is my linkedin URL
+- www.linkedin.com/in/srijal-silaniwal-043179329
 
-<!---
-Srijal223/Srijal223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently i am learning webdevelopment and recently completed my HTML and practise it on basi building blocks. Now i am starting getting indulge in Learning CSS.
+furtherly Javascript in future.
